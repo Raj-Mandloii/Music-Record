@@ -6,6 +6,6 @@
 - After successful login, the user will be able to see the information of music and also able to edit the information of genre.
 
 
-<h1>TECH STACK</h1>
+<h1>TECH STACK --></h1>
 
-<h2> HTML, CSS, Javascript, React, Redux, Redux-thunk, React-router-dom, Chakra UI, JSON-Server, Axios</h2>
+<h2> HTML, CSS, Javascript, React, Redux, Redux-thunk, React-router-dom, Chakra UI, JSON-Server and Axios</h2>
