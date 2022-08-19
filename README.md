@@ -8,4 +8,4 @@
 
 <h1>TECH STACK --></h1>
 
-<h2> HTML, CSS, Javascript, React, Redux, Redux-thunk, React-router-dom, Chakra UI, JSON-Server and Axios</h2>
+<h2> HTML, CSS, Javascript, React, Redux, Redux-thunk, React-router-dom, Chakra UI, JSON-Server and Axios.</h2>
