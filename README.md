@@ -5,6 +5,7 @@
 - In order to view the details of the clicked music, the user needs to log in first (used reqres API for log-in purpose).
 - After successful login, the user will be able to see the information of music and also able to edit the information of genre.
 
-### TECH STACK
-<h1>HTML, CSS, Javascript</h1>
-<h1>React, Redux, Redux-thunk, React-router-dom, Chakra UI, JSON-Server, Axios</h1>
+
+<h1>TECH STACK</h1>
+
+<h2> HTML, CSS, Javascript, React, Redux, Redux-thunk, React-router-dom, Chakra UI, JSON-Server, Axios</h2>
